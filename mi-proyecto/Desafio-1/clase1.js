@@ -1,5 +1,5 @@
 
-class User {
+/*class User {
     constructor(nombre, apellido, libros = [], mascotas = []) {
         this.nombre = nombre;
         this.apellido = apellido;
@@ -36,8 +36,9 @@ const usuario01 = new User("Carla", "Nosara")
 usuario01.addMascotas("Chipa")
 usuario01.addMascotas("Barto")
 usuario01.addMascotas("Aldo")
+
 usuario01.addBook("Hercules", "Wanda Daniela")
 usuario01.addBook("Tarzan", "Melisa Arriola")
 console.log(usuario01)
 console.log(usuario01.countMascotas());
-console.log(usuario01.getBookNames());
+console.log(usuario01.getBookNames());*/
